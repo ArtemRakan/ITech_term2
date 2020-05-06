@@ -1,0 +1,8 @@
+db.library.insertMany([{item:"newspaper", date:"28.08.2012", publisherName:"City Life", articleTitle:"Total war!", itemNumber:137},
+{item:"newspaper", date:"01.09.2012", publisherName:"City Life", articleTitle:"Capital of the culture", itemNumber:141},
+{item:"newspaper", date:"15.09.2012", publisherName:"Your Detective", articleTitle:"Night madness", itemNumber:62},
+{item:"magazine", date:"16.09.2012", publisherName:"Top Gear", articleTitle:"TG24 hours", pages: 20, additional:"Video disc"},
+{item:"magazine", date:"08.10.2012", publisherName:"Xakep", articleTitle:"checkm8", itemNumber:248},
+{item:"book", bookTitle:"Nineteen Eighty-Four", date:"08.06.1949", publisherName:"Secker & Warburg", author:"George Orwell", country:"United Kingdom", pages:328, OCLC:"470015866", genre:["Dystopian","Political fiction","Social science fiction"]},
+{item:"book", bookTitle:"Think and Grow Rich", date:"1937", publisherName:"The Ralston Society", author:"Napoleon Hill", country:"United States", pages:238, genre:"Non-fiction", ISBN:"978-1-78844-102-5", OCLC:"156886959"},
+{item:"book", bookTitle:"The New Encyclopedia of Modern Bodybuilding", date:"05.11.1999", publisherName:"Simon & Schuster", author:"Arnold Schwarzenegger", pages:800 , genre:"Sports", language:"English", "ISBN-10":"3200328452"}]);
